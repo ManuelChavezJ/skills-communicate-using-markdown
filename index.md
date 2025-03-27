@@ -9,3 +9,7 @@
 ``` javascript
 let magicNumber = 1234 + 5678;
 ```
+## Added Task List
+- [x] Pay a lot of money
+- [x] Survive 4 years
+- [ ] Graduate with CS degree
