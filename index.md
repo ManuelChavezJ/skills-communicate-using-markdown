@@ -4,3 +4,8 @@
 
 ## Added Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Added Code 
+``` javascript
+let magicNumber = 1234 + 5678;
+```
